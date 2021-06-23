@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/robo-assassins/static/css/main.bbefba46.chunk.css",
+    "main.js": "/robo-assassins/static/js/main.b92c019e.chunk.js",
+    "main.js.map": "/robo-assassins/static/js/main.b92c019e.chunk.js.map",
+    "runtime-main.js": "/robo-assassins/static/js/runtime-main.3374ec84.js",
+    "runtime-main.js.map": "/robo-assassins/static/js/runtime-main.3374ec84.js.map",
+    "static/css/2.31461e4f.chunk.css": "/robo-assassins/static/css/2.31461e4f.chunk.css",
+    "static/js/2.d324ee7a.chunk.js": "/robo-assassins/static/js/2.d324ee7a.chunk.js",
+    "static/js/2.d324ee7a.chunk.js.map": "/robo-assassins/static/js/2.d324ee7a.chunk.js.map",
+    "index.html": "/robo-assassins/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/robo-assassins/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.bbefba46.chunk.css.map": "/robo-assassins/static/css/main.bbefba46.chunk.css.map",
+    "static/js/2.d324ee7a.chunk.js.LICENSE.txt": "/robo-assassins/static/js/2.d324ee7a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robo-assassins/static/media/blade_runner.5a16d2bb.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3374ec84.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.d324ee7a.chunk.js",
+    "static/css/main.bbefba46.chunk.css",
+    "static/js/main.b92c019e.chunk.js"
+  ]
+}
